@@ -1,4 +1,7 @@
-# AngularPwa
+## AngularPwa
+### Angular PWA, install and configure
+
+PWA stands for Progressive Web Apps. Most web sites could benefit from using PWA. It not only helps to improve the page load time but also provides access to native features. Several case studies found out that PWA impacted the overall user engagement and those businesses see higher conversion rates.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.17.
 
@@ -26,4 +29,16 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-Refer : https://medium.com/ngconf/angular-pwa-install-and-configure-858dd8e9fb07
+### Start
+npm run start-pwa
+## Deploy
+npm run deploy
+## Reference
+https://medium.com/ngconf/angular-pwa-install-and-configure-858dd8e9fb07
+
+## Published
+https://betsyjaise.github.io/angular-pwa/
+
+
+
+

@@ -54,6 +54,12 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
+    },
+    {
+      "src":"assests/icons/pwa.png",
+      "sizes":"1400×700",
+      "type": "image/png",
+      "purpose":"maskable any"
     }
   ]
 }
